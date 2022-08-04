@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 🔭   Currently focusing on graph-based cyber attack detection.
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JNUYoung)
+![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=JNUYoung)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JNUYoung&theme=dark&layout=compact)
+
+![JNUYoung's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JNUYoung&layout=compact&hide_border=true&langs_count=10)
 
