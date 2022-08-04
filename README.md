@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻  About Me
-🤔   A CS postgraduate intrested in cybersecurity,grap deep learning and web development.
-🌱   Learning more about AI and software engineering.
+### 👨🏻‍💻  About Me
+- 🤔   A CS postgraduate intrested in cybersecurity,grap deep learning and web development.
+- 🌱   Learning more about AI and software engineering.
+
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JNUYoung)
