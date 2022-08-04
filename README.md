@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍💻  About Me
-- 🤔   A CS postgraduate intrested in cybersecurity,grap deep learning and web development.
-- 🌱   Learning more about AI and software engineering.
+- 🤔   A CS postgraduate intrested in cybersecurity,graph deep learning and web development.
+- 🌱   Learning more about elegant coding and software development.
+- 🔭   Currently focusing on graph-based cyber attack detection.
 
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JNUYoung)
